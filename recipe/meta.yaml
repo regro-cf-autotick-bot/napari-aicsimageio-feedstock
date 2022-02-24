@@ -27,6 +27,8 @@ requirements:
     - napari >=0.4.11
     - napari-plugin-engine >=0.1.4
     - python >=3.8
+    - qtpy
+    - xarray
 
 test:
   imports:
