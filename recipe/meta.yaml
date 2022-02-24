@@ -20,7 +20,9 @@ requirements:
     - python >=3.8
     - pytest-runner >=5.2
   run:
+    - aicspylibczi
     - aicsimageio >=4.1
+    - bioformats_jar
     - fsspec
     - napari >=0.4.11
     - napari-plugin-engine >=0.1.4
