@@ -29,7 +29,7 @@ requirements:
     - bioformats_jar >=2020.5.27
     - readlif >=0.6.4
     - nd2 >=0.3.0
-    - mrc >=0.3.0
+    - mrc >=0.2.0
 
 
 test:
