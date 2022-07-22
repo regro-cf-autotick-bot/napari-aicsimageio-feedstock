@@ -27,7 +27,6 @@ requirements:
     - python >=3.8
     # plugins
     - bioformats_jar >=2020.5.27
-    - imageio >=2.9.0
     - imageio-ffmeg >=0.4.5
     - mrc >=0.2.0
     - nd2 >=0.3.0
