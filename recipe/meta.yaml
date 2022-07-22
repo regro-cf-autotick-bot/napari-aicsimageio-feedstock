@@ -47,7 +47,7 @@ test:
 about:
   home: https://github.com/AllenCellModeling/napari-aicsimageio
   summary: AICSImageIO for napari. Multiple file format reading directly into napari using pure Python.
-  license: BSD-3-Clause
+  license: GPL-3.0
   license_file: LICENSE
 
 extra:
