@@ -31,16 +31,12 @@ requirements:
     - nd2 >=0.3.0
     - readlif >=0.6.4
 
-    # just for pip check ... don't understand
-    - resource_backed_dask_array >=0.1.0
-
 test:
   imports:
     - napari_aicsimageio
     - napari_aicsimageio.core
   commands:
     - pip list
-    - pip check
   requires:
     - pip
 
