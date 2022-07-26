@@ -3,7 +3,7 @@ About napari-aicsimageio
 
 Home: https://github.com/AllenCellModeling/napari-aicsimageio
 
-Package license: BSD-3-Clause
+Package license: GPL-3.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-aicsimageio-feedstock/blob/main/LICENSE.txt)
 
