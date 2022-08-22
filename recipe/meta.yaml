@@ -1,5 +1,5 @@
 {% set name = "napari-aicsimageio" %}
-{% set version = "0.7.1" %}
+{% set version = "0.7.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/napari-aicsimageio-{{ version }}.tar.gz
-  sha256: e3442618349498e4e4f3a368fc2f0c33e0ba5f5814420ffc7e98309fed9f2f83
+  sha256: 20295120186fd98b2eb0f460844c44697eb981d17ab74d28229be7b9b118a482
 
 build:
   noarch: python
