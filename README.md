@@ -1,13 +1,15 @@
-About napari-aicsimageio
-========================
-
-Home: https://github.com/AllenCellModeling/napari-aicsimageio
-
-Package license: GPL-3.0-or-later
+About napari-aicsimageio-feedstock
+==================================
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-aicsimageio-feedstock/blob/main/LICENSE.txt)
 
+Home: https://pypi.org/project/napari-aicsimageio/
+
+Package license: GPL-3.0-or-later
+
 Summary: AICSImageIO for napari. Multiple file format reading directly into napari using pure Python.
+
+Development: https://github.com/AllenCellModeling/napari-aicsimageio
 
 Current build status
 ====================
